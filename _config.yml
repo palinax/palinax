@@ -7,12 +7,12 @@ title: "Tailpages: Tailwind + Github Page"
 description: A Github Pages (Jekyll) template based on TailwindCSS
 
 # color theme for links
-theme-color: indigo # indigo|yellow|pink|green|stone|
+theme-color: stone # indigo|yellow|pink|green|stone|
 
 # homepage information
 author: Palina Tkachova
 author-bio: Data Scientist
-author-image: 279.png  # file must be in the /assets/img/ folder
+author-image: photo.jpg  # file must be in the /assets/img/ folder
 
 # navigation menu
 show-nav-menu: true

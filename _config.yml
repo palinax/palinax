@@ -24,9 +24,11 @@ nav-menu:
   permalink: bitcoin
 - text: Blog
   permalink: blog
+- text: Portfolio
+  permalink: portfolio
 
 # use false to turn off any social media links
-twitter: https://twitter.com/
+twitter: https://x.com/palinatx?lang=en
 facebook: https://facebook.com/
 instagram: https://instagram.com/
 github: https://github.com/

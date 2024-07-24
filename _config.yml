@@ -10,9 +10,9 @@ description: A Github Pages (Jekyll) template based on TailwindCSS
 theme-color: indigo # indigo|yellow|pink|green|stone|
 
 # homepage information
-author: Palina Tkachova
+author: Hamza Zia
 author-bio: Creator of Bitcoin  # change to false to hide
-author-image: photo.img  # file must be in the /assets/img/ folder
+author-image: 270.png  # file must be in the /assets/img/ folder
 
 # navigation menu
 show-nav-menu: true
